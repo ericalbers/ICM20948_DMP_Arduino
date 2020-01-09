@@ -6,3 +6,5 @@ open and build the ino file.
 
 It talks to 4 IMU's, selected by the selectMPU() call, with IO lines changing the I2C address using 4 IO pins in AD0_PINS array.
 Set PIN Low and others HIGH to talk to a particular 20948
+
+Based on Invensenses example code, ported to arduino environment
